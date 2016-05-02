@@ -52,6 +52,7 @@ class Installer extends LibraryInstaller
         'moodle'       => 'MoodleInstaller',
         'october'      => 'OctoberInstaller',
         'oxid'         => 'OxidInstaller',
+        'perchcms'     => 'PerchCMSInstaller',
         'phpbb'        => 'PhpBBInstaller',
         'pimcore'      => 'PimcoreInstaller',
         'piwik'        => 'PiwikInstaller',
